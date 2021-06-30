@@ -1,0 +1,2 @@
+Average execution time for Wait Group and Channel is 32.366µs
+Average execution time for Wait Group Only is 74.819µs
